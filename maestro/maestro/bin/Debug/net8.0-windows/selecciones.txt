@@ -1,0 +1,12 @@
+Colores seleccionados:
+Rojo
+Verde
+Azul
+Amarillo
+Negro
+Herramientas seleccionadas:
+Lapiz
+Pincel
+Goma
+Cubo
+Borrador
